@@ -1,0 +1,5 @@
+displayName = Fargo's Soul Mod Calamity DLC
+author = OG Code and Sprites by Fargowilta and Terry N Muse, Ported by TheBlackAbyss
+version = 0.4
+modReferences = FargowiltasSouls@1.4.1.1
+weakReferences = CalamityMod@2.0.1.5,
